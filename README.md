@@ -68,6 +68,7 @@ the occupancy map created:
 
 ![image](https://user-images.githubusercontent.com/73026385/143427910-8f566d87-fbb1-42f6-b3c7-536d3a24ffae.png)
 
+occupancy map animation: (press the image to preview)
 ![Threshold 0 8 HitMiss prob 0_7_0_4_](https://user-images.githubusercontent.com/73026385/143428967-1e5ef486-7a55-4351-98a3-941f61d72968.gif)
 
 
