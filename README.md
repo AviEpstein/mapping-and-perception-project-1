@@ -1,4 +1,4 @@
-# mapping-and-perception-project-1
+# mapping-and-perception-project-1-occupancy-map-and-ICP-algorithim
 
 In this assignment we will be analyzing and creating an occupancy map using the kitty data set recording: 2011_09_26_drive_0095.
 
